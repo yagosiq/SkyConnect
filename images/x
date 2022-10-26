@@ -1,0 +1,67 @@
+ <ul class="header-social"> <!--===== Header Social =====-->
+            <li><a href="https://www.linkedin.com/company/skyonesolutions/"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="https://www.facebook.com/SkyOneSolutions"><i class="fab fa-facebook-f"></i></a></li>
+            <li><a href="https://www.instagram.com/sky.one_solutions/?next=%2F"><i class="fab fa-instagram"></i></a></li>
+</ul>
+
+
+---------------
+<div class="about-skills">
+    <div class="skill-item">
+        <div class="skill-header">
+            <h6 class="skill-title">Mais de 1000 empresas usam a solução</h6>
+            <div class="skill-percentage">
+                <p><span class="counter">1000</span>%</p>
+            </div>
+        </div>
+        <div class="skill-bar">
+            <div class="bar-inner">
+                <div class="bar progress-line" data-progress="90%"></div>
+            </div>
+        </div>
+    </div> <!--===== Skill Item =====-->
+    <div class="skill-item">
+      <div class="skill-header">
+          <h6 class="skill-title">Web Design</h6>
+          <div class="skill-percentage">
+              <p><span class="counter">95</span>%</p>
+          </div>
+      </div>
+      <div class="skill-bar">
+          <div class="bar-inner">
+              <div class="bar progress-line" data-progress="95%"></div>
+          </div>
+      </div>
+  </div> <!--===== Skill Item =====-->
+  <div class="skill-item">
+      <div class="skill-header">
+          <h6 class="skill-title">HTML/CSS</h6>
+          <div class="skill-percentage">
+              <p><span class="counter">80</span>%</p>
+          </div>
+      </div>
+      <div class="skill-bar">
+          <div class="bar-inner">
+              <div class="bar progress-line" data-progress="80%"></div>
+          </div>
+      </div>
+  </div> <!--===== Skill Item =====-->
+  <div class="skill-item">
+      <div class="skill-header">
+          <h6 class="skill-title">Sketch</h6>
+          <div class="skill-percentage">
+              <p><span class="counter">70</span>%</p>
+          </div>
+      </div>
+      <div class="skill-bar">
+          <div class="bar-inner">
+              <div class="bar progress-line" data-progress="70%"></div>
+          </div>
+      </div>
+  </div> <!--===== Skill Item ====
+
+
+
+
+
+    
