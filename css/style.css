@@ -422,7 +422,7 @@ img
     content: '';
     width: 104%;
     height: 15px;
-    background-color: #0044d0);
+    background-color: #0044d0;
     top: 36px;
     right: -2px;
     transform: rotate(11deg);
@@ -1220,7 +1220,16 @@ footer .copyright-text
 
 
 
-
+footer {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0044d0;
+    color: #ffffff;
+    box-sizing: border-box;
+}
 
 
 
