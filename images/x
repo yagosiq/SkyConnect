@@ -63,5 +63,51 @@
 
 
 
-
+-----------------------------------
+      <!--===== Services Section Start =====-->
+      <section class="service-section section-padding" id="services">
+        <div class="container">
+            <div class="row">
+              <div class="section-title text-align">
+                  <h6 class="sub-title">cases</h6>
+                  <h2 class="main-title">Veja algumas parcerias de sucesso da Sky.One</h2>
+                  <ul class="line">
+                      <li></li>
+                      <li></li>
+                      <li></li>
+                  </ul>
+              </div> <!--===== Section Title =====-->
+            </div>
+            <div class="row">
+                 <!--===== Service Item Start =====-->
+                <div class="service-item">
+                    <div class="service-item-inner">
+                        <div class="icon">
+                            <i class="fas fa-mobile-alt"></i>
+                        </div>
+                        <h3>Systax</h3>
+                        <p>Systex e Sky.One firmam parceria para facilitar a migração de 
+                          dados fiscais </p>
+                          <br/>
+                          <h4>Veja o case →</h4>
+                    </div>
+                </div>
+                <!--===== Service Item End =====-->
+                <!--===== Service Item Start =====-->
+                 <div class="service-item">
+                  <div class="service-item-inner">
+                      <div class="icon">
+                          <i class="fas fa-laptop-code"></i>
+                      </div>
+                      <h3>Vtex</h3>
+                      <p>Sky.One anuncia parceria com plataforma 
+                          de comércio digital VTEX </p>
+                          <br/>
+                          <h4>Veja o case →</h4>
+                  </div>
+            
+            </div>
+        </div>
+    </section>
+    <!--===== Services Section End =====-->
     
